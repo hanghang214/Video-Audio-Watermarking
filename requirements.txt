@@ -1,0 +1,5 @@
+python=3.8
+scipy=1.4.1
+tk=8.6.12
+numpy=1.18.5
+python-opencv=4.6.0
